@@ -4,6 +4,8 @@
 
 <img width="752" alt="スクリーンショット 2023-03-29 8 32 03" src="https://user-images.githubusercontent.com/74520178/228389927-97249eb1-4a84-4f27-bee5-5baf44d7d735.png">
 
+<img width="752" alt="スクリーンショット 2023-03-29 8 37 37" src="https://user-images.githubusercontent.com/74520178/228390280-4ea3547e-2447-43cb-a1d4-b06ce40e29ed.png">
+
 #### 使い方
 1. [Open AIのサイト](https://platform.openai.com/overview)からユーザ登録を行い、API　Keyを発行
 2. app.pyの6行目を発行したAPIに書き換える
