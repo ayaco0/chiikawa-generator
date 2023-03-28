@@ -3,7 +3,7 @@ from flask import Flask, render_template, request
 import openai
 
 # OpenAI APIキーを設定する
-openai.api_key = "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" #発行したAPI Keyに置き換えてください
+openai.api_key = "YOUR_API_KEY" #発行したAPI Keyに置き換えてください
 
 # chatGPTによって出力を生成する
 def hachiware(input_text):
