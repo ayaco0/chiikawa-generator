@@ -1,6 +1,6 @@
 # chiikawa_generator
 「ちいかわ」に登場するハチワレの口調を生成してくれます。chatGPTを使います。
-ハチワレは手描きです。
+手描きのハチワレを使いたくて作りました。
 
 <img width="752" alt="スクリーンショット 2023-03-29 8 32 03" src="https://user-images.githubusercontent.com/74520178/228389927-97249eb1-4a84-4f27-bee5-5baf44d7d735.png">
 
